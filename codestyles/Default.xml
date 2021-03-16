@@ -17,4 +17,7 @@
       </value>
     </option>
   </JetCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
 </code_scheme>
